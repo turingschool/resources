@@ -41,3 +41,6 @@
 
 ### [__houndci__:](https://houndci.com/)
 * Hound comments on style violations in GitHub pull requests, allowing you and your team to better review and maintain a clean codebase.
+
+### [__awesome_print__:](https://github.com/michaeldv/awesome_print)
+* Awesome Print is a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
