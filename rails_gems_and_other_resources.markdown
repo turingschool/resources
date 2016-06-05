@@ -1,4 +1,4 @@
-# Rails Gems and Other resources:
+# Rails Gems and Other Resources:
 
 ### [__public_activity__:](https://github.com/chaps-io/public_activity)
 * Public Activity is a gem that allows you to track a user's actions within your appliciation and display them in a socialized-like feed.
