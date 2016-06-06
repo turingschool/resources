@@ -9,7 +9,7 @@
 ### [__kaminari__:](https://github.com/amatsuda/kaminari)
 * kaminari is a pagination gem.
 
-### [Email with __sendgrid__:](https://sendgrid.com/docs/API_Reference/index.html)
+### [Email with __sendgrid__:](https://sendgrid.com/docs/Integrate/Frameworks/rubyonrails.html)
 * Implement a mailer with sendgrid's api so you can send emails.
 
 ### [__carrierwave__:](https://github.com/carrierwaveuploader/carrierwave)
